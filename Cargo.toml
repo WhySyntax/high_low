@@ -7,5 +7,5 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-functions = { path = "../functions"}
+functions = { git = "https://github.com/WhySyntax/functions"}
 rand = "0.4.6"

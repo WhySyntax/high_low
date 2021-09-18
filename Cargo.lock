@@ -9,6 +9,7 @@ checksum = "a06f77d526c1a601b7c4cdd98f54b5eaabffc14d5f2f0296febdc7f357c6d3ba"
 [[package]]
 name = "functions"
 version = "0.1.0"
+source = "git+https://github.com/WhySyntax/functions#5e864e07d7257469915959bc4bc8ab283ae6002e"
 
 [[package]]
 name = "high_low"
